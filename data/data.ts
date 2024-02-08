@@ -1,6 +1,6 @@
 const data = {
     sitename: "Top Tyres",
-    sitetagline: "Comming Soon",
+    sitetagline: "",
     sitelogo: "",
     title: "Comming Soon",
     description: "We are cooking up a storm, check back soon.",

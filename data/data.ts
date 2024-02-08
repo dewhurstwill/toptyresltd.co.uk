@@ -1,25 +1,13 @@
 const data = {
-    sitename: "Comming Soon Template",
-    sitetagline: "Comming Soon Template Tagline",
+    sitename: "Top Tyres",
+    sitetagline: "Comming Soon",
     sitelogo: "",
     title: "Comming Soon",
-    description: "We&apos;re currently working 👨‍💻 hard to bring you something great, and we can&apos;t wait to share it with you 📅. Our team is putting the finishing touches on a new project 🚀 that we think you&apos;ll love 😍.",
+    description: "We are cooking up a storm, check back soon.",
     newsletterheading: "Stay tuned for our live updates!",
-    copyrightText: 'Copyright © 2023 | Design and Developed By &nbsp;<a target="_blank" class="no-underline md:underline" href="https://github.com/baikaresandip">Baikare Sandip</a>',
+    copyrightText: 'Copyright © 2024 TopTyresLtd - Website By &nbsp;<a target="_blank" class="no-underline md:underline" href="https://devvy.co.uk">DEVVY</a>',
     socialIconsHeading: "Follow Us 📣",
     socialIcons: [
-        {
-            icon: "facebook",
-            link: "https://www.facebook.com/sandeep.baikare/",
-        },
-        {
-            icon: "twitter",
-            link: "https://twitter.com/BaikareSandeep",
-        },
-        {
-            icon: "linkedIn",
-            link: "https://www.linkedin.com/in/sandip-baikare/",
-        },
     ],
 }
 

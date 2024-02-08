@@ -1,5 +1,5 @@
 const data = {
-    sitename: "Top Tyres",
+    sitename: "",
     sitetagline: "",
     sitelogo: "",
     title: "Comming Soon",
